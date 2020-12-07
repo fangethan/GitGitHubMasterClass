@@ -12,6 +12,7 @@ public class Main {
 	System.out.println("hello again again");
 	System.out.println("hello again again again");
 	System.out.println("another change");
+	System.out.println("another change to show the commit -a");
 
     }
 }
