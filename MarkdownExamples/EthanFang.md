@@ -1,3 +1,10 @@
+Andriod | iOS | Windows
+---: | :---: | ---
+ Samsung | iPhone | Nokia
+fklaklklsfdjljljsal | djsflkdjfjalsjlas | dsakfja;ldkjls;fd
+[afl](www.afl.com.au)| hello | hello
+![](https://media.kasperskydaily.com/wp-content/uploads/sites/102/2019/12/10005705/android-device-identifiers-featured.jpg) 
+
 My first markdown document
 **bold asterik**
 __bold underscore__
